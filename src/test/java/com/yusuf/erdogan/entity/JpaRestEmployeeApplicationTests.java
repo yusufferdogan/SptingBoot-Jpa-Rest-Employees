@@ -1,4 +1,4 @@
-package com.yusuf.erdogan.jparestemployee;
+package com.yusuf.erdogan.entity;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
